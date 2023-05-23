@@ -18,6 +18,9 @@ training_data = datasets.FashionMNIST(
     transform=ToTensor(),
 )
 
+# todo： ToTensor() 可以将 PIL image或者 ndarray转换成一个FloatTensor， 并且可以将图片的像素值归一化到 [0., 1.]范围内
+
+
 # Download test data from open datasets.
 test_data = datasets.FashionMNIST(
     root="data",

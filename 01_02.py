@@ -29,8 +29,8 @@ class CustomImageDataset(Dataset):
         image = read_image(img_path)
         label = self.img_labels.iloc[idx, 1]
         if self.transform:
-            image = self.transform(image)
+            image = self.transform(image)  # transform modify the features
         if self.target_transform:
-            label = self.target_transform(label)
+            label = self.target_transform(label)  # target_transform modify the labels
         return image, label
 
