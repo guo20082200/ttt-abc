@@ -1,0 +1,1491 @@
+{
+  "articleId": "54176",
+  "nodes": [
+    {
+      "id": "7781",
+      "type": "pro_rect",
+      "x": 320,
+      "y": 1520,
+      "properties": {
+        "type": "pro_rect",
+        "component": "icon-rect",
+        "title": "活动",
+        "defaultProperty": "huodongmingcheng",
+        "icon": "/icon-flow-rect.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "huodong1_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "活动名称",
+            "name": "huodongmingcheng",
+            "value": "活动",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "活动编号",
+            "name": "huodongbianhao",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 320,
+        "y": 1520,
+        "value": "6.1.4 开展OSC优化。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7780",
+      "type": "triangle",
+      "x": 80,
+      "y": 1680,
+      "properties": {
+        "type": "triangle",
+        "component": "icon-triangle",
+        "title": "控制",
+        "defaultProperty": "section_no",
+        "icon": "/icon-flow-triangle.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "section_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "编号",
+            "name": "section_no",
+            "value": "控制",
+            "show": true,
+            "required": true
+          },
+          {
+            "title": "类型",
+            "name": "type",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求内容",
+            "name": "section_name",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "对应过程",
+            "name": "duiyingguocheng",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求落地",
+            "name": "yaoqiuluodi",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "设置关键控制点",
+            "name": "guanjiankongzhidian",
+            "value": "",
+            "show": true,
+            "required": false
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 1680,
+        "value": "1、制造工程技术中心收集分析生产管理部和装配车间反馈的OSC现场应用过程中出现的问题，结合现场跟产情况迭代升版OSC。<br/>2、制造工程技术中心负责召集OSC应用协调会，装配车间、生产管理部和采供物流中心参加，分析应用过程中出现问题和工作包到位情况，并提出改进措施，对OSC做出持续优化。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "9744",
+      "type": "rect_radius",
+      "x": 640,
+      "y": 760,
+      "properties": {
+        "type": "rect_radius",
+        "component": "icon-rect-radius",
+        "title": "表单",
+        "defaultProperty": "bdmc",
+        "icon": "/icon-flow-ellipse.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "biaodan111_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "表单名称",
+            "name": "bdmc",
+            "value": "表单",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "表单编号",
+            "name": "list_num",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 640,
+        "y": 760,
+        "value": "生产执行"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7774",
+      "type": "triangle",
+      "x": 80,
+      "y": 480,
+      "properties": {
+        "type": "triangle",
+        "component": "icon-triangle",
+        "title": "控制",
+        "defaultProperty": "section_no",
+        "icon": "/icon-flow-triangle.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "section_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "编号",
+            "name": "section_no",
+            "value": "控制",
+            "show": true,
+            "required": true
+          },
+          {
+            "title": "类型",
+            "name": "type",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求内容",
+            "name": "section_name",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "对应过程",
+            "name": "duiyingguocheng",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求落地",
+            "name": "yaoqiuluodi",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "设置关键控制点",
+            "name": "guanjiankongzhidian",
+            "value": "",
+            "show": true,
+            "required": false
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 480,
+        "value": "确定AO周期、人数、工种，绘制OSC并组织评审，确定大部件工作包和系统件工作包配套到位时间节点（装配车间协助制造工程技术中心确定AO周期、人数等；生产管理部制定年产架份数，确定OSC周期）。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "9745",
+      "type": "rect_radius",
+      "x": 80,
+      "y": 1360,
+      "properties": {
+        "type": "rect_radius",
+        "component": "icon-rect-radius",
+        "title": "表单",
+        "defaultProperty": "bdmc",
+        "icon": "/icon-flow-ellipse.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "biaodan111_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "表单名称",
+            "name": "bdmc",
+            "value": "表单",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "表单编号",
+            "name": "list_num",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 1360,
+        "value": "应用情况及现场意见"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7776",
+      "type": "triangle",
+      "x": 80,
+      "y": 1080,
+      "properties": {
+        "type": "triangle",
+        "component": "icon-triangle",
+        "title": "控制",
+        "defaultProperty": "section_no",
+        "icon": "/icon-flow-triangle.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "section_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "编号",
+            "name": "section_no",
+            "value": "控制",
+            "show": true,
+            "required": true
+          },
+          {
+            "title": "类型",
+            "name": "type",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求内容",
+            "name": "section_name",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "对应过程",
+            "name": "duiyingguocheng",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求落地",
+            "name": "yaoqiuluodi",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "设置关键控制点",
+            "name": "guanjiankongzhidian",
+            "value": "",
+            "show": true,
+            "required": false
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 1080,
+        "value": "装配车间按OSC开展生产，生产管理部按照OSC制定生产计划，并确保生产计划的完成。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7775",
+      "type": "pro_rect",
+      "x": 320,
+      "y": 320,
+      "properties": {
+        "type": "pro_rect",
+        "component": "icon-rect",
+        "title": "活动",
+        "defaultProperty": "huodongmingcheng",
+        "icon": "/icon-flow-rect.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "huodong1_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "活动名称",
+            "name": "huodongmingcheng",
+            "value": "活动",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "活动编号",
+            "name": "huodongbianhao",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 320,
+        "y": 320,
+        "value": "6.1.1 编制/修订OSC。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "1790",
+      "type": "rect_radius",
+      "x": 80,
+      "y": 160,
+      "properties": {
+        "type": "rect_radius",
+        "component": "icon-rect-radius",
+        "title": "表单",
+        "defaultProperty": "bdmc",
+        "icon": "/icon-flow-ellipse.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "biaodan111_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "表单名称",
+            "name": "bdmc",
+            "value": "表单",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "表单编号",
+            "name": "list_num",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 160,
+        "value": "经批准的OSP"
+      },
+      "zindex": null
+    },
+    {
+      "id": "54255",
+      "type": "rect_radius",
+      "x": 80,
+      "y": 760,
+      "properties": {
+        "type": "rect_radius",
+        "component": "icon-rect-radius",
+        "title": "表单",
+        "defaultProperty": "bdmc",
+        "icon": "/icon-flow-ellipse.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "biaodan111_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "表单名称",
+            "name": "bdmc",
+            "value": "表单",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "表单编号",
+            "name": "list_num",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 80,
+        "y": 760,
+        "value": "OSC"
+      },
+      "zindex": null
+    },
+    {
+      "id": "334",
+      "type": "lane",
+      "x": 520,
+      "y": 1460,
+      "properties": {
+        "type": "lane",
+        "component": "IconLane",
+        "title": "责任主体",
+        "defaultProperty": "zerenzhuti_name",
+        "icon": "/icon-flow-lane.png",
+        "nodeSize": {
+          "width": 1200,
+          "height": 600
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "责任主体ID",
+            "name": "zerenzhuti_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "责任主体名称",
+            "name": "zerenzhuti_name",
+            "value": "责任主体",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": [
+        "7780",
+        "9746"
+      ],
+      "text": {
+        "x": 520,
+        "y": 1460,
+        "value": "制造工程技术中心"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7778",
+      "type": "triangle",
+      "x": 640,
+      "y": 1080,
+      "properties": {
+        "type": "triangle",
+        "component": "icon-triangle",
+        "title": "控制",
+        "defaultProperty": "section_no",
+        "icon": "/icon-flow-triangle.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "section_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "编号",
+            "name": "section_no",
+            "value": "控制",
+            "show": true,
+            "required": true
+          },
+          {
+            "title": "类型",
+            "name": "type",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求内容",
+            "name": "section_name",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "对应过程",
+            "name": "duiyingguocheng",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "要求落地",
+            "name": "yaoqiuluodi",
+            "value": "",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "设置关键控制点",
+            "name": "guanjiankongzhidian",
+            "value": "",
+            "show": true,
+            "required": false
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 640,
+        "y": 1080,
+        "value": "装配车间和生产管理部将OSC应用情况及现场意见反馈制造工程技术中心。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7777",
+      "type": "pro_rect",
+      "x": 320,
+      "y": 920,
+      "properties": {
+        "type": "pro_rect",
+        "component": "icon-rect",
+        "title": "活动",
+        "defaultProperty": "huodongmingcheng",
+        "icon": "/icon-flow-rect.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "huodong1_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "活动名称",
+            "name": "huodongmingcheng",
+            "value": "活动",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "活动编号",
+            "name": "huodongbianhao",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 320,
+        "y": 920,
+        "value": "6.1.2 生产执行。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "9746",
+      "type": "rect_radius",
+      "x": 320,
+      "y": 1360,
+      "properties": {
+        "type": "rect_radius",
+        "component": "icon-rect-radius",
+        "title": "表单",
+        "defaultProperty": "bdmc",
+        "icon": "/icon-flow-ellipse.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "biaodan111_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "表单名称",
+            "name": "bdmc",
+            "value": "表单",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "表单编号",
+            "name": "list_num",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 320,
+        "y": 1360,
+        "value": "优化OSC"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7779",
+      "type": "pro_rect",
+      "x": 880,
+      "y": 920,
+      "properties": {
+        "type": "pro_rect",
+        "component": "icon-rect",
+        "title": "活动",
+        "defaultProperty": "huodongmingcheng",
+        "icon": "/icon-flow-rect.png",
+        "nodeSize": {
+          "width": 160,
+          "height": 80
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "huodong1_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "活动名称",
+            "name": "huodongmingcheng",
+            "value": "活动",
+            "show": true,
+            "required": false
+          },
+          {
+            "title": "活动编号",
+            "name": "huodongbianhao",
+            "value": "",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 880,
+        "y": 920,
+        "value": "6.1.3 应用情况及现场意见反馈。"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7619",
+      "type": "lane",
+      "x": 520,
+      "y": 860,
+      "properties": {
+        "type": "lane",
+        "component": "IconLane",
+        "title": "责任主体",
+        "defaultProperty": "zerenzhuti_name",
+        "icon": "/icon-flow-lane.png",
+        "nodeSize": {
+          "width": 1200,
+          "height": 600
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "责任主体ID",
+            "name": "zerenzhuti_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "责任主体名称",
+            "name": "zerenzhuti_name",
+            "value": "责任主体",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": [
+        "9744",
+        "9745",
+        "7776",
+        "7778"
+      ],
+      "text": {
+        "x": 520,
+        "y": 860,
+        "value": "装配车间/生产管理部门"
+      },
+      "zindex": null
+    },
+    {
+      "id": "7618",
+      "type": "lane",
+      "x": 520,
+      "y": 260,
+      "properties": {
+        "type": "lane",
+        "component": "IconLane",
+        "title": "责任主体",
+        "defaultProperty": "zerenzhuti_name",
+        "icon": "/icon-flow-lane.png",
+        "nodeSize": {
+          "width": 1200,
+          "height": 600
+        }
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "责任主体ID",
+            "name": "zerenzhuti_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "责任主体名称",
+            "name": "zerenzhuti_name",
+            "value": "责任主体",
+            "show": true,
+            "required": true
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": [
+        "54255",
+        "7774",
+        "1790",
+        "67ae7f24-a32f-4b42-90e2-16fa280a6c19"
+      ],
+      "text": {
+        "x": 520,
+        "y": 260,
+        "value": "制造工程技术中心/装配车间/生产管理部"
+      },
+      "zindex": null
+    },
+    {
+      "id": "67ae7f24-a32f-4b42-90e2-16fa280a6c19",
+      "type": "pro_diamond",
+      "x": 565,
+      "y": 430,
+      "properties": {
+        "title": "网关",
+        "defaultProperty": "mingcheng"
+      },
+      "graphProperties": {
+        "desc": [
+          {
+            "title": "主键",
+            "name": "gateway_id",
+            "value": "",
+            "show": false,
+            "required": false
+          },
+          {
+            "title": "名称",
+            "name": "mingcheng",
+            "value": "网关",
+            "show": true,
+            "required": false
+          }
+        ]
+      },
+      "nodeSize": null,
+      "children": null,
+      "text": {
+        "x": 565,
+        "y": 430,
+        "value": "网关"
+      },
+      "zindex": null
+    }
+  ],
+  "edges": [
+    {
+      "id": "97457781",
+      "type": "pro-polyline",
+      "sourceNodeId": "9745",
+      "targetNodeId": "7781",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 1520
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 1360
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 1360
+        },
+        {
+          "x": 210,
+          "y": 1360
+        },
+        {
+          "x": 210,
+          "y": 1520
+        },
+        {
+          "x": 240,
+          "y": 1520
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "17907775",
+      "type": "pro-polyline",
+      "sourceNodeId": "1790",
+      "targetNodeId": "7775",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 320
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 160
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 160
+        },
+        {
+          "x": 210,
+          "y": 160
+        },
+        {
+          "x": 210,
+          "y": 320
+        },
+        {
+          "x": 240,
+          "y": 320
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "542557777",
+      "type": "pro-polyline",
+      "sourceNodeId": "54255",
+      "targetNodeId": "7777",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 920
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 760
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 760
+        },
+        {
+          "x": 210,
+          "y": 760
+        },
+        {
+          "x": 210,
+          "y": 920
+        },
+        {
+          "x": 240,
+          "y": 920
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "97447779",
+      "type": "pro-polyline",
+      "sourceNodeId": "9744",
+      "targetNodeId": "7779",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 800,
+        "y": 920
+      },
+      "startPoint": {
+        "x": 720,
+        "y": 760
+      },
+      "pointsList": [
+        {
+          "x": 720,
+          "y": 760
+        },
+        {
+          "x": 770,
+          "y": 760
+        },
+        {
+          "x": 770,
+          "y": 920
+        },
+        {
+          "x": 800,
+          "y": 920
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77819746",
+      "type": "pro-polyline",
+      "sourceNodeId": "7781",
+      "targetNodeId": "9746",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 320,
+        "y": 1400
+      },
+      "startPoint": {
+        "x": 320,
+        "y": 1480
+      },
+      "pointsList": [
+        {
+          "x": 320,
+          "y": 1480
+        },
+        {
+          "x": 320,
+          "y": 1400
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "777554255",
+      "type": "pro-polyline",
+      "sourceNodeId": "7775",
+      "targetNodeId": "54255",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 160,
+        "y": 760
+      },
+      "startPoint": {
+        "x": 320,
+        "y": 360
+      },
+      "pointsList": [
+        {
+          "x": 320,
+          "y": 360
+        },
+        {
+          "x": 320,
+          "y": 760
+        },
+        {
+          "x": 160,
+          "y": 760
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77779744",
+      "type": "pro-polyline",
+      "sourceNodeId": "7777",
+      "targetNodeId": "9744",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 560,
+        "y": 760
+      },
+      "startPoint": {
+        "x": 400,
+        "y": 920
+      },
+      "pointsList": [
+        {
+          "x": 400,
+          "y": 920
+        },
+        {
+          "x": 530,
+          "y": 920
+        },
+        {
+          "x": 530,
+          "y": 760
+        },
+        {
+          "x": 560,
+          "y": 760
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77799745",
+      "type": "pro-polyline",
+      "sourceNodeId": "7779",
+      "targetNodeId": "9745",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 160,
+        "y": 1360
+      },
+      "startPoint": {
+        "x": 800,
+        "y": 920
+      },
+      "pointsList": [
+        {
+          "x": 800,
+          "y": 920
+        },
+        {
+          "x": 770,
+          "y": 920
+        },
+        {
+          "x": 770,
+          "y": 1360
+        },
+        {
+          "x": 160,
+          "y": 1360
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77807781",
+      "type": "pro-polyline",
+      "sourceNodeId": "7780",
+      "targetNodeId": "7781",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 1520
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 1720
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 1720
+        },
+        {
+          "x": 210,
+          "y": 1720
+        },
+        {
+          "x": 210,
+          "y": 1520
+        },
+        {
+          "x": 240,
+          "y": 1520
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77747775",
+      "type": "pro-polyline",
+      "sourceNodeId": "7774",
+      "targetNodeId": "7775",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 320
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 520
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 520
+        },
+        {
+          "x": 210,
+          "y": 520
+        },
+        {
+          "x": 210,
+          "y": 320
+        },
+        {
+          "x": 240,
+          "y": 320
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77767777",
+      "type": "pro-polyline",
+      "sourceNodeId": "7776",
+      "targetNodeId": "7777",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 240,
+        "y": 920
+      },
+      "startPoint": {
+        "x": 160,
+        "y": 1120
+      },
+      "pointsList": [
+        {
+          "x": 160,
+          "y": 1120
+        },
+        {
+          "x": 210,
+          "y": 1120
+        },
+        {
+          "x": 210,
+          "y": 920
+        },
+        {
+          "x": 240,
+          "y": 920
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "77787779",
+      "type": "pro-polyline",
+      "sourceNodeId": "7778",
+      "targetNodeId": "7779",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "rgba(0,122,255,1)",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 800,
+        "y": 920
+      },
+      "startPoint": {
+        "x": 720,
+        "y": 1120
+      },
+      "pointsList": [
+        {
+          "x": 720,
+          "y": 1120
+        },
+        {
+          "x": 770,
+          "y": 1120
+        },
+        {
+          "x": 770,
+          "y": 920
+        },
+        {
+          "x": 800,
+          "y": 920
+        }
+      ],
+      "zindex": null
+    },
+    {
+      "id": "b365e67e-c5d1-4d10-956c-98379e2397e9",
+      "type": "pro-polyline",
+      "sourceNodeId": "67ae7f24-a32f-4b42-90e2-16fa280a6c19",
+      "targetNodeId": "7775",
+      "sourceLabel": null,
+      "targetLabel": null,
+      "sourceUidPropertyName": null,
+      "targetUidPropertyName": null,
+      "properties": {
+        "borderColor": "#007AFF",
+        "borderStyle": "dashed"
+      },
+      "graphProperties": null,
+      "text": null,
+      "endPoint": {
+        "x": 400,
+        "y": 320
+      },
+      "startPoint": {
+        "x": 565,
+        "y": 380
+      },
+      "pointsList": [
+        {
+          "x": 565,
+          "y": 380
+        },
+        {
+          "x": 565,
+          "y": 320
+        },
+        {
+          "x": 400,
+          "y": 320
+        }
+      ],
+      "zindex": null
+    }
+  ],
+  "image": ""
+}
