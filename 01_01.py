@@ -55,3 +55,20 @@ for i in range(1, cols * rows + 1):
     plt.imshow(img.squeeze(), cmap="gray")
 plt.savefig("pic/FashionMNIST%s.png" % datetime.datetime.now().day)
 # plt.show()
+
+
+train_dataloader = DataLoader(training_data, batch_size=64, shuffle=True)
+test_dataloader = DataLoader(test_data, batch_size=64, shuffle=True)
+
+# Display image and label.
+train_features, train_labels = next(iter(train_dataloader))
+print(".............................")
+print(train_features)
+print(train_labels)
+print(f"Feature batch shape: {train_features.size()}") # Feature batch shape: torch.Size([64, 1, 28, 28])
+print(f"Labels batch shape: {train_labels.size()}") # Labels batch shape: torch.Size([64])
+img = train_features[0].squeeze()
+label = train_labels[0]
+plt.imshow(img, cmap="gray")
+plt.show()
+print(f"Label: {label}")
